@@ -1,4 +1,4 @@
-# WPF - Navigation Drawer / Sidebar Menu | UI Design | C# |
+# WPF - Navigation Drawer / Sidebar Menu
 
 How to design a Navigation Drawer / Sidebar Menu in WPF - https://youtu.be/fzBcXicj2G8
 
